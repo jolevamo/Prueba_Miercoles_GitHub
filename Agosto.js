@@ -1,0 +1,1 @@
+console.log("Si el estudiante no guarda el Git no gana el parcial")
